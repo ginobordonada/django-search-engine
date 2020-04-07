@@ -12,7 +12,7 @@ Pseudo relevance feedback on the other hand treats the first two documents to be
     + numpy
 
 #### Preview
-![Relevance feedback image](https://github.com/ericserraupwork/django-search-engine/blob/tree/master/Screenshots/relevance%20feedback%20(2).png)
+![Relevance feedback image](https://github.com/ericserraupwork/django-search-engine/blob/master/Screenshots/relevance%20feedback%20(2).png)
 ![Relevance feedback result image](https://github.com/ericserraupwork/django-search-engine/blob/tree/master/Screenshots/relevance%20feedback%20result.png)
 
 #### Document Clustering
