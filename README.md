@@ -13,15 +13,15 @@ Pseudo relevance feedback on the other hand treats the first two documents to be
 
 #### Preview
 ![Relevance feedback image](https://github.com/ericserraupwork/django-search-engine/blob/master/Screenshots/relevance%20feedback%20(2).png)
-![Relevance feedback result image](https://github.com/ericserraupwork/django-search-engine/blob/tree/master/Screenshots/relevance%20feedback%20result.png)
+![Relevance feedback result image](https://github.com/ericserraupwork/django-search-engine/blob/master/Screenshots/relevance%20feedback%20result.png)
 
 #### Document Clustering
 Clustering means grouping similar things together. I have used k - means clustering to group documents together. The documents were
 clustered into 50(k=50) clusters after iterating over 25 times. The user is recommended the cluster to which the most relevant result of
 the system belongs.
 Clusters
-![Cluster 1](https://github.com/ericserraupwork/django-search-engine/blob/tree/master/Screenshots/clusters%20(1).png)
-![Cluster 2](https://github.com/ericserraupwork/django-search-engine/blob/tree/master/Screenshots/clusters%20(2).png)
+![Cluster 1](https://github.com/ericserraupwork/django-search-engine/blob/master/Screenshots/clusters%20(1).png)
+![Cluster 2](https://github.com/ericserraupwork/django-search-engine/blob/master/Screenshots/clusters%20(2).png)
 
 #### Page Rank Algorithm
 PR (PageRank) value of all the crawled document were calculated using the algebraic method discussed here
@@ -32,7 +32,7 @@ the page rank values of the pages.
 The hub and authority score of retrieved pages are calculated by the diagonalization of the product of the adjacency matrix and its
 transpose. These are then displayed on the links and can be useful in identifying the hubs and authority.
 
-![hits](https://github.com/ericserraupwork/django-search-engine/blob/tree/master/Screenshots/hits%20analysis.png)
+![hits](https://github.com/ericserraupwork/django-search-engine/blob/master/Screenshots/hits%20analysis.png)
 
 #### Author
 + Eric Serra
